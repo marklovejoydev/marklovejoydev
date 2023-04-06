@@ -12,5 +12,5 @@
 Now i have the oppotunity to pursue a career in tech which in the past i only saw as a hobby.
 
 - 🔭 I’m currently working on learning JavaScript HTML and CSS.
-- 🌱 I’m currently learning with Northcoders on there Front-end Web Developer course.
+- 🌱 I’m currently learning with Northcoders on there Software Developer course.
 - ⚡ Fun fact: Recently gotten into Anime with a subscription to crunchyroll and realising i have alot of episodes to go through.
