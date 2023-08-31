@@ -7,6 +7,7 @@
  A little about myself I am changing my career from a Regiment Gunner in the RAF in which i spent a fantastic 8 years in service,
  where i had had some incredible life experiances and gained some strong skills that I didnt realise where transferable.
  Such as:
+ <br>
     <br> - Adapability
     <br> - Problem Solving
     <br> - Stong Teamwork
