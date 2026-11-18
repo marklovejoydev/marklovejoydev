@@ -30,7 +30,6 @@ currently_learning: ["Docker, and React"]
 hobbies: ["Gaming", "WH40K", "Skateboarding", "Football", "Anime"]
 ```
  ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-- 📫 How to reach me **marklovejoydev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
