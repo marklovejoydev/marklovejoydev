@@ -21,7 +21,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Junior Software Developer - Deloitte",
+    "Software Developer - Deloitte",
     "Assosiate Web Developer - Beatnik Studio Web Agency"
   ]
   
